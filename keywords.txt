@@ -1,0 +1,62 @@
+#######################################
+# Syntax Coloring Map Sample library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Sushi_Exp	KEYWORD1
+Sushi_exp	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Set_ClockPins	KEYWORD2
+Set_DataPins	KEYWORD2
+Set_ResetPin	KEYWORD2
+Set_ActionSw	KEYWORD2
+Get_ClockPin	KEYWORD2
+Get_DataPin	KEYWORD2
+Get_ResetPin	KEYWORD2
+Get_ActionSw	KEYWORD2
+Get_ClockPin_Name	KEYWORD2
+Get_DataPin_Name	KEYWORD2
+On_DataPins	KEYWORD2
+Off_DataPins	KEYWORD2
+On_DataPin	KEYWORD2
+Off_DataPin	KEYWORD2
+On_DataPin_Binary	KEYWORD2
+Off_DataPin_Binary	KEYWORD2
+On_DataPin0	KEYWORD2
+On_DataPin1	KEYWORD2
+On_DataPin2	KEYWORD2
+On_DataPin3	KEYWORD2
+On_DataPin4	KEYWORD2
+On_DataPin5	KEYWORD2
+On_DataPin6	KEYWORD2
+On_DataPin7	KEYWORD2
+Off_DataPin0	KEYWORD2
+Off_DataPin1	KEYWORD2
+Off_DataPin2	KEYWORD2
+Off_DataPin3	KEYWORD2
+Off_DataPin4	KEYWORD2
+Off_DataPin5	KEYWORD2
+Off_DataPin6	KEYWORD2
+Off_DataPin7	KEYWORD2
+Output_ClockPin	KEYWORD2
+Output_ClockPinA1	KEYWORD2
+Output_ClockPinA2	KEYWORD2
+Output_ClockPinB	KEYWORD2
+Output_ClockPinC	KEYWORD2
+Output_ClockPinD	KEYWORD2
+Output_ClockPinE	KEYWORD2
+Output_ClockPinF	KEYWORD2
+Output_ClockPinG	KEYWORD2
+Reset_Ic	KEYWORD2
+Show_Infomation	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SOURCE_MODE	LITERAL1
+SINK_MODE	LITERAL1
